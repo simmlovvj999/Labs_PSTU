@@ -56,12 +56,12 @@
 | 10 | Ханойская башня | 🟢 | [репозиторий](SEM_2/hanoi_tower) |
 | 11 | Восемь ферзей | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/eight%20queens) |
 | 12 | Простые сортировки | 🟢 | [репозиторий](SEM_2/easy_sorts) |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
-| --- | --- | --- | --- |
+| 13 | линейный интерполяционный бинарный поиск подстроки | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/inter-binar) |
+| 14 | поиск подстроки в строке сложные и наивный, BM, BMH | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/finders) |
+| 15 | быстрая сортировка Ломуто, слиянием, подсчётом, блочная | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/hsort) |
+| 16 | быстрая сортировки Шелла и Хоара | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/qsort) |
+| 17 | многофазная и естественная сортировки | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/hhsort) |
+| 18 | хэш таблицы | 🟢 | [репозиторий](https://github.com/simmlovvj999/Labs_PSTU/tree/main/SEM_2/hash) |
 
 ### Классы
 
@@ -73,5 +73,6 @@
 | 4 | Классы 4 | 🟢 | [репозиторий](SEM_2/classes/cl_4) |
 | 5 | Классы 5 | 🟢 | [репозиторий](SEM_2/classes/cl_5) |
 | 6 | Классы 6 | 🟢 | [репозиторий](SEM_2/classes/cl_6) |
-| 7 | Классы 7 | --- | [репозиторий]() |
+| 7 | Классы 7 | 🟢 | [репозиторий](SEM_2/classes/cl_7) |
+| 8 | Классы 8 | 🟢 | [репозиторий](SEM_2/classes/cl_8) |
 
